@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+### 个人信息
+#### 姓名 王崇华
+#### 学校 上海交通大学
+#### 专业 人工智能
+#### 邮箱 philipwang@sjtu.edu.cn
 
-You can use the [editor on GitHub](https://github.com/philipwangOvO/philipwangOvO.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 教育经历
+#### 2020.9 ~        上海交通大学
+#### 2017.9 ~ 2020.6 华师大二附中(紫竹校区)
+#### 2013.9 ~ 2017.6 市北初级中学
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/philipwangOvO/philipwangOvO.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 曾获荣誉
+#### 2021.11 2021年度上海交通大学教育部-华为“智能基座”产教融合协同育人基地奖学金
+#### 2021.11 2021年度本科生B等奖学金
+#### 2019.10 2019全国高中数学联赛三等奖
+#### 2019.1  NOI2019冬令营二等奖
+#### 2018.11 NOIP2018提高组一等奖
+#### 2018.10 2018全国高中数学联赛三等奖
+#### 2018.4  入选NOI2018上海市队
+#### 2017.11 NOIP2017提高组一等奖
+#### 2016.11 NOIP2016提高组二等奖
+#### 2015.11 NOIP2015普及组一等奖
+#### 2014.11 NOIP2014普及组一等奖
+#### 2013.11 NOIP2013普及组一等奖
