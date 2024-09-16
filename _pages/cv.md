@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Shanghai Jiao Tong University, 2024(expected)
+* B.S. in Shanghai Jiao Tong University, 2024
 
 Work experience
 ======
